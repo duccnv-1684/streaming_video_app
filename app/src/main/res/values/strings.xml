@@ -5,4 +5,7 @@
     <string name="streaming_id">Streaming ID</string>
     <string name="start_streaming">Start Streaming</string>
     <string name="stop_streaming">Stop Streaming</string>
+    <string name="address_error">Address Invalid</string>
+    <string name="app_error">App Invalid</string>
+    <string name="uri_format">rtmp://%s/%s/%s</string>
 </resources>
